@@ -1,7 +1,7 @@
 # simple-dict
 
 #### 声明
-本扩展包完全基于[nowgoo/dict](http://example.com/ "nowgoo/dict") ，由于原作者一直没有发布composer版本，所有才有了此包
+本扩展包完全基于[nowgoo/dict](https://github.com/nowgoo/dict "nowgoo/dict") ，由于原作者一直没有发布composer版本，所有才有了此包
 
 #### 安装
 ```
