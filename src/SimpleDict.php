@@ -348,7 +348,7 @@ class SimpleDict
                 array_pop($prefix);
             }
         } while (!empty($stack));
-        echo "done\n";
         fclose($fp);
+        return true;
     }
 }
